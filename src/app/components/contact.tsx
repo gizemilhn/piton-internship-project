@@ -25,7 +25,7 @@ const ContactForm: React.FC = () => {
         <input
           type="text"
           id="name"
-          className="border border-black w-full p-3 rounded"
+          className="border border-black w-full p-3 "
           placeholder="Your Name"
         />
       </div>
@@ -36,7 +36,7 @@ const ContactForm: React.FC = () => {
         <input
           type="email"
           id="email"
-          className="border border-black w-full p-3 rounded"
+          className="border border-black w-full p-3 "
           placeholder="Your Email"
         />
       </div>
@@ -47,7 +47,7 @@ const ContactForm: React.FC = () => {
         <input
           type="url"
           id="website"
-          className="border border-black w-full p-3 rounded"
+          className="border border-black w-full p-3 "
           placeholder="https://yourwebsite.com"
         />
       </div>
@@ -57,14 +57,14 @@ const ContactForm: React.FC = () => {
         </label>
         <textarea
           id="details"
-          className="border border-black w-full p-3 rounded"
+          className="border border-black w-full p-3 "
           placeholder="Tell us about your project..."
           rows={4}
         ></textarea>
       </div>
       <button
         type="submit"
-        className="bg-black text-white w-full p-3 rounded hover:bg-gray-800 transition"
+        className="bg-black text-white w-full p-3 hover:bg-gray-800 transition"
       >
         Send Proposal
       </button>

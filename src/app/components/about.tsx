@@ -15,7 +15,7 @@ const About: React.FC = () => {
     <img
       src="/images/Mid Image.jpg"
       alt="About us"
-      className="w-full h-auto object-cover rounded-lg shadow-lg"
+      className="w-full h-auto object-cover shadow-lg"
     />
   </div>
 </section>

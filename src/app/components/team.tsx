@@ -10,7 +10,7 @@ return(
   </div>
   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-16 max-w-7xl mx-auto">
     
-    <div className="p-6 text-center shadow-lg bg-white rounded-lg">
+    <div className="p-6 text-center shadow-lg bg-white ">
       <img
         src="images/Avatar1.jpg"
         alt="Esther Howard"
@@ -22,7 +22,7 @@ return(
       </div>
     </div>
     
-    <div className="p-6 text-center shadow-lg bg-white rounded-lg">
+    <div className="p-6 text-center shadow-lg bg-white ">
       <img
         src="images/Avatar2.jpg"
         alt="Cody Fisher"
@@ -34,7 +34,7 @@ return(
       </div>
     </div>
     
-    <div className="p-6 text-center shadow-lg bg-white rounded-lg">
+    <div className="p-6 text-center shadow-lg bg-white ">
       <img
         src="images/Avatar3.jpg"
         alt="Brooklyn Simmons"
